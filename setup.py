@@ -31,6 +31,6 @@ setup(name='ptitprince',
           'matplotlib',
           'numpy>=1.16',
           'scipy',
-          'seaborn==0.11',
+          'seaborn>=0.11',
       ],
       zip_safe=False)
